@@ -30,4 +30,4 @@ Intel® oneAPI AI Analytics Toolkit还提供了许多用于数据分析和机器
 
 下面是在jupyter上的一段测试代码，运行结果正常，且能够通过中断配置环境，十分方便
 
-![image-20230606205637299](D:\Documents\大二下\人工智能\Homework\4\image-20230606205637299.png)
+![image-20230606205637299](image-20230606205637299.png)
